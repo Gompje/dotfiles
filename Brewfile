@@ -137,7 +137,6 @@ mas 'PDFScanner', id: 410968114
 mas 'Fantastical', id: 975937182
 mas 'SnippetsLab', id: 1006087419
 
-mas 'TickTick', id: 966085870
 mas 'Gemini 2', id: 1090488118
 mas 'Toggl Track', id: 957734279
 mas 'SnippetsLab', id: 100608741
