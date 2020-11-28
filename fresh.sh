@@ -31,8 +31,11 @@ $HOME/.composer/vendor/bin/valet install
 mkdir $HOME/Sites
 
 # Create sites subdirectories
-mkdir $HOME/Sites/blade-ui-kit
-mkdir $HOME/Sites/laravel
+mkdir $HOME/Sites/backups
+mkdir $HOME/Sites/devilbox
+mkdir $HOME/Sites/devilbox-data
+mkdir $HOME/Sites/spaces
+mkdir $HOME/Sites/resources
 
 # Clone Github repositories
 ./clone.sh
