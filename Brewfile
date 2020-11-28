@@ -32,6 +32,7 @@ brew 'svgo'
 brew 'gifsicle'
 
 # Development
+brew 'composer'
 brew 'php'
 brew 'php@7.3'
 brew 'php@7.2'
@@ -44,26 +45,44 @@ brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+brew 'vim'
+
+#k8s
+brew 'k9s'
 
 # Apps
 cask '1password'
 cask '1password-cli'
 cask 'aerial'
 cask 'alfred'
+cask 'adobe-creative-cloud'
+cask 'bartender'
+cask 'balenaetcher'
 cask 'caffeine'
+cask 'carbon-copy-cloner'
+cask 'cleanmymac'
+cask 'clover-configurator'
+cask 'cyberghost-vpn'
+cask 'dash'
 cask 'dbngin'
 cask 'discord'
 cask 'docker'
-cask 'figma'
 cask 'firefox'
-cask 'github'
-cask 'google-backup-and-sync'
+cask 'gitkraken'
+cask 'google-drive-file-stream'
 cask 'google-chrome'
 cask 'gpg-suite'
+cask 'hazel'
 cask 'imageoptim'
-cask 'insomnia'
-cask 'notion'
+cask 'iterm2'
+cask 'jetbrains-toolbox'
+cask 'microsoft-teams'
+cask 'openaudible'
 cask 'phpstorm'
+cask 'parallels'
+cask 'parallels-toolbox'
+cask 'paw'
+cask 'prusaslicer'
 cask 'screenflow'
 cask 'skype'
 cask 'slack'
@@ -78,6 +97,9 @@ cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'whatsapp'
+cask 'ultimaker-cura'
+cask 'anydesk'
+cask 'path-finder'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -104,3 +126,23 @@ mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
 mas 'Things', id: 904280696
 mas 'Tweetbot', id: 1384080005
+
+mas 'Tot', id: 1491071483
+mas 'Jump Desktop', id: 524141863
+mas 'Moom', id: 419330170
+mas 'CodeRunner', id: 955297617
+mas 'MindNode', id: 1289197285
+mas 'Xcode', id: 497799835
+mas 'PDFScanner', id: 410968114
+mas 'Fantastical', id: 975937182
+mas 'SnippetsLab', id: 1006087419
+
+mas 'TickTick', id: 966085870
+mas 'Gemini 2', id: 1090488118
+mas 'Toggl Track', id: 957734279
+mas 'SnippetsLab', id: 100608741
+
+mas 'Affinity Designer', id: 824171161
+mas 'Ulysses', id: 1225570693
+mas 'Audiobook Builder', id: 1437681957
+mas 'Microsoft Word', id: 462054704
