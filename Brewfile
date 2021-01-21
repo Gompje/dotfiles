@@ -34,8 +34,12 @@ brew 'gifsicle'
 # Development
 brew 'composer'
 brew 'php'
+brew 'php@7.4'
 brew 'php@7.3'
 brew 'php@7.2'
+pecl install xdebug
+brew 'gh'
+
 brew 'composer'
 brew 'imagemagick'
 brew 'libmemcached'
@@ -47,8 +51,17 @@ brew 'redis'
 brew 'yarn'
 brew 'vim'
 
+brew 'nmap'
+brew 'bunch'
+
 #k8s
 brew 'k9s'
+brew 'kubectl'
+brew 'docctl'
+
+#code
+brew 'prettier'
+tap 'caskroom/fonts'
 
 # Apps
 cask '1password'
@@ -67,6 +80,7 @@ cask 'dash'
 cask 'dbngin'
 cask 'discord'
 cask 'docker'
+brew 'docker-machine-parallels'
 cask 'firefox'
 cask 'gitkraken'
 cask 'google-drive-file-stream'
@@ -96,10 +110,13 @@ cask 'transmission'
 cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
-cask 'whatsapp'
+
+cask 'signal'
 cask 'ultimaker-cura'
 cask 'anydesk'
-cask 'path-finder'
+cask 'forklift'
+cask 'tweetbot'
+cask 'duet'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -116,6 +133,10 @@ cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
+cask 'font-fira-code'
+cask 'font-fira-mono'
+cask 'font-fira-mono-for-powerline'
+cask 'font-fira-sans'
 
 # Mac App Store
 mas 'Byword', id: 420212497
@@ -125,7 +146,6 @@ mas 'Numbers', id: 409203825
 mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
 mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
 
 mas 'Tot', id: 1491071483
 mas 'Jump Desktop', id: 524141863

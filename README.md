@@ -1,6 +1,10 @@
-# Dries's Dotfiles
+# Gompje's Dotfiles (WIP)
 
 This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles. Enjoy! :smile:
+
+
+
+## Inspired by Dries
 
 📖 Read the blog post: https://driesvints.com/blog/getting-started-with-dotfiles  
 📺 Watch the screencast on Laracasts: https://laracasts.com/series/guest-spotlight/episodes/1
@@ -40,6 +44,18 @@ If you did all of the above you may now follow these install instructions to set
 Your Mac is now ready to use!
 
 > Note: you can use a different location than `~/.dotfiles` if you want. Just make sure you also update the reference in the [`.zshrc`](./.zshrc) file.
+
+## TODO -> automate these manual steps:
+
+### Apps
+- color picker (id ???)
+- pdf expert -- id757691087899odr (not sure if this is app store or not)
+
+
+### Configs
+- Ulysess themes -> https://styles.ulysses.app/themes/material-dark-new-light-mode-vXx
+- iTerm2 theme and settings -> https://gist.github.com/kevin-smets/8568070
+
 
 ## Your Own Dotfiles
 

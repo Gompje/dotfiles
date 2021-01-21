@@ -32,8 +32,8 @@ mkdir $HOME/Sites
 
 # Create sites subdirectories
 mkdir $HOME/Sites/backups
-mkdir $HOME/Sites/devilbox
-mkdir $HOME/Sites/devilbox-data
+# mkdir $HOME/Sites/devilbox
+# mkdir $HOME/Sites/devilbox-data
 mkdir $HOME/Sites/spaces
 mkdir $HOME/Sites/resources
 
@@ -46,6 +46,7 @@ ln -s $HOME/.dotfiles/.zshrc $HOME/.zshrc
 
 # Symlink the Mackup config file to the home directory
 ln -s $HOME/.dotfiles/.mackup.cfg $HOME/.mackup.cfg
+
 
 # Set macOS preferences
 # We will run this last because this will reload the shell
