@@ -26,3 +26,5 @@ git clone git@github.com:Gompje/docker-nginx-pagespeed.git $DEVIL/docker-nginx-p
 #DaktaDeo
 git clone git@gitlab.com:daktadeo/self/daktadeo-nuxt.git $DEVIL/daktadeo-nuxt
 git clone git@gitlab.com:daktadeo/self/daktadeo-handbook.git $DEVIL/daktadeo-handbook
+
+git clone git@github.com:DaktaDeo/bmc-flanders-offshore-racing.git

@@ -52,12 +52,6 @@ brew 'yarn'
 brew 'vim'
 
 brew 'nmap'
-brew 'bunch'
-
-#k8s
-brew 'k9s'
-brew 'kubectl'
-brew 'docctl'
 
 #code
 brew 'prettier'
@@ -76,7 +70,6 @@ cask 'carbon-copy-cloner'
 cask 'cleanmymac'
 cask 'clover-configurator'
 cask 'cyberghost-vpn'
-cask 'dash'
 cask 'dbngin'
 cask 'discord'
 cask 'docker'
@@ -147,6 +140,7 @@ mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
 mas 'Things', id: 904280696
 
+
 mas 'Tot', id: 1491071483
 mas 'Jump Desktop', id: 524141863
 mas 'Moom', id: 419330170
@@ -165,3 +159,6 @@ mas 'Affinity Designer', id: 824171161
 mas 'Ulysses', id: 1225570693
 mas 'Audiobook Builder', id: 1437681957
 mas 'Microsoft Word', id: 462054704
+
+mas 'Day One', id: 1055511498
+mas 'Bear', id: 1091189122
